@@ -1,10 +1,9 @@
-# Experiments with LangChain
+# AI Engineering
 
-![LangChain](lang-chain.png)
+![AI Object](object.png)
 
-## Jupyter
+## LangChain
 
-1. Propmpts
-2. Memory
-3. Chains
-4. Questions and Answers
+Jupyter Notebook for experimenting with Propmpts, Memory, Chains, Questions and Answers.
+
+## OpenAI Embeddings and Vector search
